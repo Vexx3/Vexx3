@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hello there 👋
+I'm a IT student who likes programming lmao and 
+I'm currently learning on Java and more programming languages
+He/Him
 
 <!--
 **Vexx3/Vexx3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
