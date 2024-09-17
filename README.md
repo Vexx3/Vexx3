@@ -1,6 +1,8 @@
 ## Hello there 👋
-I'm a IT student who likes programming lmao and 
+I'm a IT student who likes programming lmao
+
 I'm currently learning on Java and more programming languages
+
 He/Him
 
 <!--
