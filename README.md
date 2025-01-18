@@ -1,9 +1,8 @@
-<h1 align="center">Hi 👋, I'm an IT student :).</h1>
-<h3 align="center">A passionate backend developer from Philippines</h3>
+<h1 align="center">Hi there 👋, I'm an IT student :).</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kielzy&label=Profile%20views&color=00e1ff&style=flat" alt="kielzy" /> </p>
 
-- 🔭 I’m currently working on [zylx-bot](https://github.com/Vexx3/zylx-bot)
+- 🔭 I’m currently working on none currently.
 
 - 🌱 I’m currently learning **Frameworks, etc.**
 
@@ -12,8 +11,6 @@
 - 💬 Ask me about **python, JavaScript, Java, and C#.**
 
 - 📫 How to reach me **zekeloo2008@gmail.com**
-
-- ⚡ Fun fact **I think i am funny also i like programming ofc.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
